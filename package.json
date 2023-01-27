@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.1.0",
+    "pug": "^3.0.2",
+    "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "vue3-whr-ripple-directive": "^1.0.0"
+  }
+}

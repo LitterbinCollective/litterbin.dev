@@ -1,0 +1,13 @@
+.button {
+  background: var(--brand-gradient);
+  color: var(--body-background);
+  border: 0;
+  min-width: 12em;
+  min-height: 4em;
+  justify-content: center;
+  align-items: center;
+
+  .container {
+    font-size: 1.5em;
+  }
+}

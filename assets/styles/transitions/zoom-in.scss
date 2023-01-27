@@ -1,0 +1,15 @@
+.zoom-in {
+  &-leave-active {
+    transition: all 1s ease;
+    opacity: 1;
+  }
+
+  &-leave-from {
+    transform: scale(0);
+  }
+
+  &-leave-to {
+    transform: scale(100);
+    opacity: 0;
+  }
+}

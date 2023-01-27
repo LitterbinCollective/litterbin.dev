@@ -1,0 +1,13 @@
+:root {
+  --brand-color: #bd2626;
+  --secondary-brand-color: #ff9c55;
+  --brand-gradient: linear-gradient(45deg, var(--brand-color), var(--secondary-brand-color));
+  --body-background: #fbfdfb;
+  --primary-text-color: #141414;
+  --secondary-text-color: #585858;
+  --max-width-tablet: 768px;
+
+  --border-radius: 16px;
+  --font-family: "Roboto Mono", monospace;
+  --font-size: Min(max(15px, .88vw), 22px);
+}
