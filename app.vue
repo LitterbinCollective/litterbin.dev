@@ -1,6 +1,6 @@
 <template lang="pug">
 div
-  NuxtLoadingIndicator(color="--theme-color")
+  NuxtLoadingIndicator(color="var(--theme-color)")
   NuxtLayout
     NuxtPage
 </template>
